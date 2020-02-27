@@ -1,4 +1,4 @@
-package song.project.project;
+package song.project;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
